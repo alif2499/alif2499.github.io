@@ -10,4 +10,4 @@ Rajshahi University of Engineering & Technology (RUET) </br>
 Website: https://alif2499.github.io/ </br>
 ResearchGate: https://www.researchgate.net/profile/Alif-Rahman-3 </br>
 Linkedin: https://www.linkedin.com/in/alif-rahman-691766187/ </br>
-Email: alifrahmancse92@gmail.com
+E-mail: alifrahmancse92@gmail.com
